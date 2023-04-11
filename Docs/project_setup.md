@@ -8,7 +8,7 @@ With Unity 2022.2, create a new project from either an HDRP or URP template, the
 - `com.unity.entities.graphics` (for rendering entities)
 - `com.unity.collections` (unmanaged collection types)
 - `com.unity.physics` (for collision detection and physical simulation of entities)
-- `com.havok.physics` (alternative Havok-provided "backend" for physics)
+- `com.havok.physics` (alternative Havok-provided "backend" for physics, not for free version, beginners will be confused)
 - `com.unity.netcode` (for entities-driven server-client multiplayer)
 
 These packages will include `com.unity.burst` and `com.unity.mathematics` as dependencies.
